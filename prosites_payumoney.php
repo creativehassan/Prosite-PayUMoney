@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: Prosite PayU India (PayUmoney & PayUbiz)
-Plugin URI: http://www.webox.com.pk/
+Plugin URI: http://www.coresol.com.pk/
 Description: PayU India supports both PayUmoney and PayUbiz.
 Version: 2.0.10
-Author: Webox
-Author URI: http://www.webox.com.pk/
+Author: Hassan Ali (Coresol)
+Author URI: http://www.coresol.com.pk/
 License: GNU General Public License v3.0
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 */
